@@ -1,9 +1,9 @@
-# Data-Analytics-Portfolio
+# Data Science & Analytics Portfolio
+This repository contains projects and visualizations from the Data Science & Analytics program with [HackerU](https://hackerusa.com/).
+<img src="https://github.com/wiazur/data-analytics-portfolio/blob/main/hackeru-logo.png" width="150"/>
 
-This repository contains projects from the Data Science and Analytics program offered at University of Wisconsin-Madison. A full description of the program can be found at [Bootcamp Home](https://digitalskills.wisc.edu).
+## SQL
 
-## Data Analysis Projects
+## Statistics
 
-### Beginning Examples
-
-## Data Visualization
+## Visual Communications
